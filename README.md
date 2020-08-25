@@ -6,6 +6,6 @@ Description!
 
 Watch tutorials.
 
-## Local Developement
+## Local Development
 
-Open index.html in a browser
+Part of sub branch.
